@@ -1,10 +1,6 @@
 # jwli
  
 
-Jwli front end!
-This was a fun one. I was able to really start to understand the power of CSS Grid and Flex Box when used together. 
-Some of the internal structures of the Grid boxes really pushed me to understand the difference between the two frameworks
-
 ![jwli-preview](https://user-images.githubusercontent.com/23227549/194087953-9c58c6f4-1896-4b90-97a7-80e38fc93d7b.png)
 
 Link to project: https://jwli-void-portfolio.netlify.app/
